@@ -107,13 +107,6 @@ NeuralNetwork: Evaluation Accuracy = 91.5%
 
 ---
 
-## 👨‍💻 Author
-
-**Behroze Y**
-AI / Data Science Student
-
----
-
 ## ⭐ Note
 
 This project is built for learning and demonstrating OOP concepts in AI system design.
